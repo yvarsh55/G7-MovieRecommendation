@@ -36,12 +36,12 @@ from users.\
 Scalability: The system should be able to handle large volumes of data and users without
 compromising performance or accuracy.\
 Flexibility: The system should be flexible and adaptable to changing user needs,
-preferences, and behaviors.\
+preferences, and behaviors.
 
 ## Team:
 
-Production Leader- RISHABH BHARTI\
-(rishabh.2125csme1050@kiet.edu)
+Production Leader- RISHABH BHARTI
+(rishabh.2125csme1050@kiet.edu)\
 ML Team: YASHRAJ SINGH SRINET,YASHU VARSHNEY\
 (yashraj.2125csme1034@kiet.edu),(yashu.2125csme1025@kiet.edu)\
 Web dev and frontend: Vaishnav Yadav(vaishnav.2125csme@kiet.edu)
